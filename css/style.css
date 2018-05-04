@@ -1,0 +1,50 @@
+.meta-title{
+	color:red;
+}
+.tabs-link{
+   width:30%;
+   overflow: hidden;
+   float:left;
+   
+}
+
+.tabs-link li{
+
+
+	
+}
+
+.tabs-link li a{
+	text-decoration:none;
+	color:red;
+	background: green;
+	padding: 10px 13px;
+	font-size: 17px;
+	width: 70px;
+	display: block;
+}
+.info-sec input[type="text"],.info-sec input[type="email"]{
+	width: 50%;
+	overflow: hidden;
+	padding: 9px 3px;
+	margin: 10px 0px;
+}
+.info-sec label{
+	width: 100%;
+	color:#c0392b;
+	overflow: hidden;
+	display: block;
+}
+#Personal h2,#Acadamic h2,#Official h2{
+	color:green;
+	font-size:21px;
+	margin-left: -11px;
+	
+	
+}
+
+#Personal,#Acadamic,#Official{
+	width:70%;
+	overflow: hidden;
+	
+}
